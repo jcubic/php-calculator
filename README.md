@@ -15,3 +15,5 @@ composer install
 php compile.php
 php index.php
 ```
+
+`index.peg.php` is the source PEG grammar of the calculator
