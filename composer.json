@@ -1,0 +1,15 @@
+{
+    "name": "jcubic/test",
+    "description": "Test",
+    "type": "project",
+    "license": "CC0",
+    "authors": [
+        {
+            "name": "Jakub Jankiewicz",
+            "email": "jcubic@onet.pl"
+        }
+    ],
+    "require": {
+        "smuuf/php-peg": "^3.0"
+    }
+}

@@ -2,13 +2,16 @@
 
 
 Install
-```
+
+```bash
 git clone https://github.com/jcubic/php-calculator.git
 ```
 
 Run:
-```
+
+```bash
 cd php-calculator
 composer install
+php compile.php
 php index.php
 ```
